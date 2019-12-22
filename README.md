@@ -28,3 +28,9 @@
 * 1x T12 tip
 * 1x Buck converter 22 * 17 * 5mm
 * 1x FTDI module
+* 1x Heatsink 14 * 14 * 8mm
+
+### Hints
+Note that the two points of the GND bridge are connected with solder!
+
+### Completely soldered example
