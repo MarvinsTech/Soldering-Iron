@@ -46,4 +46,5 @@ Almost all newly purchased ATmega328 microcontrollers lack the boot loader, so w
 
 https://github.com/WestfW/OptiLoader
 
+![Soldering Iron](Pictures/Bootloader_connection.png)
 ### 
