@@ -1,6 +1,7 @@
 # Soldering-Iron
 
 ![Soldering Iron](Pictures/SolderingIron_1.jpg)
+![Soldering Iron](Pictures/SolderingIron_3.jpg)
 
 ### Required parts
 * 1x ![Soldering iron PCB](https://github.com/MarvinsTech/Soldering-Iron/tree/master/Eagle%20file/Soldering%20Iron%20V2/GerberFile.zip)
@@ -35,3 +36,6 @@ Note that the two points of the GND bridge are connected with solder!
 ![Soldering Iron](Pictures/SolderingIron_2.jpg)
 
 ### Completely soldered example
+
+![Soldering Iron](Pictures/SolderingIron_4.jpg)
+![Soldering Iron](Pictures/SolderingIron_5.jpg)
