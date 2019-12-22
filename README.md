@@ -26,4 +26,4 @@
 * 1x IRF4905S MOSFET
 * 1x USB B cable
 * 1x T12 tip
-* 1x Buck converter 22*17*5mm
+* 1x Buck converter 22 * 17 * 5mm
