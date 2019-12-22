@@ -32,5 +32,6 @@
 
 ### Hints
 Note that the two points of the GND bridge are connected with solder!
+![Soldering Iron](Pictures/SolderingIron_2.jpg)
 
 ### Completely soldered example
