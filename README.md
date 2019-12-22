@@ -5,6 +5,7 @@
 
 ### Required parts
 * 1x ![Soldering iron PCB](https://github.com/MarvinsTech/Soldering-Iron/tree/master/Eagle%20file/Soldering%20Iron%20V2/GerberFile.zip)
+(To order the PCB, visit https://jlcpcb.com)
 * 1x ATmega328pAU
 * 1x Female DC power jack
 * 1x 16MHz crystal SMD
@@ -34,19 +35,19 @@
 
 ### Hints
 Note that the two points of the GND bridge are connected with solder!
-![Soldering Iron](Pictures/SolderingIron_2.jpg)
+![Soldering iron](Pictures/SolderingIron_2.jpg)
 
 ### Completely soldered example
 
-![Soldering Iron](Pictures/SolderingIron_4.jpg)
-![Soldering Iron](Pictures/SolderingIron_5.jpg)
+![Soldering iron](Pictures/SolderingIron_4.jpg)
+![Soldering iron](Pictures/SolderingIron_5.jpg)
 
 ### Installing the bootloader on ATmega328
 Almost all newly purchased ATmega328 microcontrollers lack the boot loader, so we have to install it ourselves. For this we need an Arduino that is connected as shown in the picture (Make sure that all components on the PCB except the display are soldered!). After the ATmega328 is connected to the Arduino via jumper cables, we have to install OptiLoader on the Arduino and see if it does not display an error message in the serial monitor. If no error message appears, the jumper cables can be unsoldered from the ATmega328.
 
 https://github.com/WestfW/OptiLoader
 
-![Soldering Iron](Pictures/Bootloader_connection.png)
+![Bootloader connection](Pictures/Bootloader_connection.png)
 
 ### Load the program onto ATmega328
 Before we load the program onto the ATmega328, we first have to implement the FTDI module in the Arduino IDE. To do this, follow the step-by-step instructions below.
@@ -59,4 +60,9 @@ Before we load the program onto the ATmega328, we first have to implement the FT
 * Wait for the platform indexes to finish downloading.
 * Scroll down until you see the MiniCore entry and click on it.
 * Click Install.
+
+Next we select the ATmega328 board from Tools, connect the FTDI module to the computer and upload the program to the PCB via the FTDI interface.
+
+![FTDI programmer](Pictures/SolderingIron_6.jpg)
+
 
