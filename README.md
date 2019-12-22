@@ -9,13 +9,13 @@
 * 1x 16MHz crystal SMD
 * 1x SS12 Schottky diode
 * 1x 2SC3356 R25 SOT-23
-* 2x 1k SMD Resistor
-* 5x 10k SMD Resistor
-* 1x 1M SMD Resistor
-* 1x 200k SMD Resistor
-* 2x 5k SMD Resistor
-* 1x 100K SMD Resistor
-* 3x 71 SMD Resistor
+* 2x 1kΩ SMD Resistor
+* 5x 10kΩ SMD Resistor
+* 1x 1MΩ SMD Resistor
+* 1x 200kΩ SMD Resistor
+* 2x 5kΩ SMD Resistor
+* 1x 100KΩ SMD Resistor
+* 3x 71Ω SMD Resistor
 * 1x 2,2nF SMD Capacitor
 * 3x 100nF/0,1uF SMD Capacitor
 * 3x PCB Fuse clip
@@ -27,3 +27,4 @@
 * 1x USB B cable
 * 1x T12 tip
 * 1x Buck converter 22 * 17 * 5mm
+* 1x FTDI module
