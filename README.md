@@ -61,7 +61,7 @@ Before we load the program onto the ATmega328, we first have to implement the FT
 * Scroll down until you see the MiniCore entry and click on it.
 * Click Install.
 
-Next we select the ATmega328 board from Tools, connect the FTDI module to the computer and upload the program to the PCB via the FTDI interface.
+Next we select the ATmega328 board from Tools, connect the FTDI module to the computer and upload the ![program]( to the PCB via the FTDI interface.
 
 ![FTDI programmer](Pictures/SolderingIron_6.jpg)
 
