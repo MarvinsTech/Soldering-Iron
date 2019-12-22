@@ -47,4 +47,16 @@ Almost all newly purchased ATmega328 microcontrollers lack the boot loader, so w
 https://github.com/WestfW/OptiLoader
 
 ![Soldering Iron](Pictures/Bootloader_connection.png)
-### 
+
+### Load the program onto ATmega328
+Before we load the program onto the ATmega328, we first have to implement the FTDI module in the Arduino IDE. To do this, follow the step-by-step instructions below.
+
+* Open the Arduino IDE.
+* Open the File > Preferences menu item.
+* Enter the following URL in Additional Boards Manager URLs:
+`https://mcudude.github.io/MiniCore/package_MCUdude_MiniCore_index.json`
+* Open the Tools > Board > Boards Manager... menu item.
+* Wait for the platform indexes to finish downloading.
+* Scroll down until you see the MiniCore entry and click on it.
+* Click Install.
+
