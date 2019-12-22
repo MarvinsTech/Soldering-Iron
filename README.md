@@ -5,4 +5,4 @@
 ### Required parts
 * 1x Soldering iron PCB 
 * 1x ATmega328pAU
-* 1x Jackh https://electronoobs.io/tutorial/36#
+* 1x Jackh 
