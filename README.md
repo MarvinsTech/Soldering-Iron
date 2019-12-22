@@ -39,3 +39,8 @@ Note that the two points of the GND bridge are connected with solder!
 
 ![Soldering Iron](Pictures/SolderingIron_4.jpg)
 ![Soldering Iron](Pictures/SolderingIron_5.jpg)
+
+### Installing the bootloader on ATmega328
+Almost all newly purchased ATmega328 microcontrollers lack the boot loader, so we have to install it ourselves. For this we need an Arduino that is connected as shown in the picture. After the ATmega328 is connected to the Arduino via jumper cables, we have to install OptiLoader on the Arduino and see if it does not display an error message in the serial monitor. If no error message appears, the jumper cables can be unsoldered from the ATmega328.
+
+https://github.com/WestfW/OptiLoader
