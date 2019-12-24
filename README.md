@@ -4,7 +4,7 @@
 ![Soldering Iron](Pictures/SolderingIron_3.jpg)
 
 ### Required parts
-* 1x ![Soldering iron PCB](https://github.com/MarvinsTech/Soldering-Iron/tree/master/Eagle%20file/Soldering%20Iron%20V2/GerberFile.zip)
+* 1x [Soldering iron PCB](https://github.com/MarvinsTech/Soldering-Iron/tree/master/Eagle%20file/Soldering%20Iron%20V2/GerberFile.zip)
 (To order the PCB, visit https://jlcpcb.com)
 * 1x [ATmega328pAU](https://de.aliexpress.com/item/32900110997.html?spm=a2g0o.productlist.0.0.6260378blZ3Cgl&algo_pvid=3a814b0d-65b6-42ce-b419-f9f72c1997d7&algo_expid=3a814b0d-65b6-42ce-b419-f9f72c1997d7-30&btsid=363c362b-cf80-4f91-8e9c-2e44274fab52&ws_ab_test=searchweb0_0,searchweb201602_4,searchweb201603_53)
 * 1x [Female DC power jack](https://de.aliexpress.com/item/1000007253624.html?spm=a2g0o.productlist.0.0.63461dcaoJZtV4&algo_pvid=28c6eaf7-739f-4408-a783-d572ee06ba7d&algo_expid=28c6eaf7-739f-4408-a783-d572ee06ba7d-13&btsid=e61eab79-1ec7-4b98-b4ed-ceea8f2bdb99&ws_ab_test=searchweb0_0,searchweb201602_4,searchweb201603_53)
