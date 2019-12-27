@@ -32,6 +32,7 @@
 * 1x [Buck converter 22 * 17 * 5mm](https://de.aliexpress.com/item/32901415443.html?spm=a2g0s.9042311.0.0.27424c4dPg1aoU)
 * 1x [FTDI module](https://de.aliexpress.com/item/32826575637.html?spm=a2g0o.productlist.0.0.2ba36b57X6JT8A&algo_pvid=7d64f631-2c61-41ad-a472-009a9779fd66&algo_expid=7d64f631-2c61-41ad-a472-009a9779fd66-0&btsid=e6b133be-f678-48f3-b6a3-1f7580f63944&ws_ab_test=searchweb0_0,searchweb201602_4,searchweb201603_53)
 * 1x Heatsink 14 * 14,5 * 4mm
+* 4x M2,5 screws and nuts
 
 ### Hints
 Note that the two points of the GND bridge are connected with solder!
